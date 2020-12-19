@@ -1,1 +1,3 @@
-# Machine-Learning-Dicoding
+# Machine-Learning-Pemula-Dicoding
+
+![](sc.PNG)
